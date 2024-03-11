@@ -1,0 +1,28 @@
+{
+  "name": "teste_target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercicio1.cjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanHenriqueRF/Teste_Target.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanHenriqueRF/Teste_Target/issues"
+  },
+  "homepage": "https://github.com/AlanHenriqueRF/Teste_Target#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "babel-jest": "^29.7.0"
+  }
+}
