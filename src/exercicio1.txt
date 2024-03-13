@@ -1,0 +1,45 @@
+1) Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+
+
+Ao final do processamento, qual será o valor da variável SOMA?
+
+Ao final do processo tendo em vista que K teve um aumento contante de 1 até 13, sendo 
+aumentado apenas +1  a K por ciclo do looping, a SOMA então receberia 91, que darei o exemplo agora:
+
+ciclo 1: SOMA = 0 + 1 = 1
+ciclo 2: SOMA = 1 + 2 = 3 
+ciclo 3: SOMA = 3 + 3 = 6
+ciclo 4: SOMA = 6 + 4 = 10 
+.          .    .    .   .
+.          .    .    .   .
+.          .    .    .   .
+ciclo 13: SOMA = 78 + 13 = 91 
+
+Concluindo a variável SOMA teria no final do processo do código o valor de SOMA = 91 e K = 13.
+
+Um forma de escrever esse código em ts ou js, nesse caso ambos teriam o mesmo código:
+
+
+let INDICE = 13, SOMA = 0, K = 0;
+
+while( K < INDICE) {
+    K = K + 1;
+    SOMA = SOMA + K;
+};
+
+console.log(SOMA);
