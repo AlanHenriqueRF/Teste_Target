@@ -1,1 +1,5 @@
-4) Para resolver o problema 4 eu primeiramente ligaria 2 interruptores, e olharia em qualquer 
+4) Para resolver o problema 4 eu primeiramente ligaria apenas o primeiro interruptor, e 
+iria na outra sala verificar qual lampada aquele interruptor acendeu, voltaria, e desligaria
+aquele interruptor que eu tinha acendido, logo apos acenderia o segundo interruptor e voltva 
+a sala e verificaria qual lampada tinha acendido, e assim so faltaria uma lampada e um interruptor
+e assim dava para concluir que aquele interruptor ascende esta ultima lampada que não sabia qual era.

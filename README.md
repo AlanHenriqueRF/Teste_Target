@@ -1,6 +1,6 @@
 # Estágio Ribeirão Preto - 2024
 
-Este é um teste técnico da empresa Target Sistemas, composto por 5 exercícios que visam avaliar suas habilidades de programação e lógica. Eu escoli resolver os exércicios utilizando Node.js, juntamente com as biblioteca Jest para testar as respostas, e os códigos desenvolvidos nos exécicios.
+Este é um teste técnico da empresa Target Sistemas, composto por 5 exercícios que visam avaliar suas habilidades de programação e lógica. Eu escoli resolver os exércicios utilizando typescript quando necessario, aluguns quando possivel fiz como uma arquivo de anotação de extensão .txt, juntamente com as biblioteca Jest para testar as respostas, e os códigos desenvolvidos nos exécicios.
 
 ## Tecnologias Utilizadas
 * Node.js: Plataforma para execução de  código JavaScript no servidor que foi gerado pelo npx tsc nome do arquvio.
