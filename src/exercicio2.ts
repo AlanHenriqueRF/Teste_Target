@@ -1,4 +1,4 @@
-export default function IsFibonacci(n) {
+export default function IsFibonacci(n: number) {
     let a = 0, b = 1;
     if (n < 0) {
         return `Infelizmente, o número ${n} não pertence a senquência de Fibonacci`

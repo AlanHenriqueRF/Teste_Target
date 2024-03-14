@@ -1,6 +1,5 @@
 import IsFibonacci from "exercicio2";
 
-
 describe("Exércicio 2 tests", () => {
   it("should work", async () => {
     expect(true).toBe(true);
